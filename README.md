@@ -28,9 +28,9 @@
 2. Set up the database in MySQL and create a table for reviews.
 3. Update the database configuration in the backend.
 4. Install dependencies for both backend and frontend:
-   - Backend(server): `node server.js ` (in the backend folder)
+   - Backend(server): `npm install ` (in the backend folder)
    - Frontend: `npm install` (in the frontend folder)
-5. Start the backend server: `npm start` (in the backend folder).
+5. Start the backend server: `node server.js` (in the backend folder).
 6. Start the frontend application: `npm start` (in the frontend folder).
 
 ## Running the App
